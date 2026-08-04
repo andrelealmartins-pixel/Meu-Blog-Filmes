@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Blog do André - Crítica Percy Jackson</title>
-        <style>
-            /* Configuração geral da página */
+           /* Configuração geral da página */
             body {
                 background-color: #f4f6f9;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -94,57 +87,3 @@
                 color: #777777;
                 font-size: 0.9em;
             }
-        </style>
-    </head>
-    <body>
-
-        <header>
-            <h1>Meu Blog de Filmes</h1>
-            <p>Vou compartilhar um pouco da minha opinião sobre o filme Percy Jackson e o Ladrão de Raios.</p>
-        </header>
-
-        <main>
-            <h2>Crítica Própria: Percy Jackson e o Ladrão de Raios</h2>
-            <p class="autor">Por: André Leal | Postado hoje</p>
-            <hr>
-            
-            <p>Boas-vindas ao meu novo blog! Como primeiro post, decidi falar sobre uma das adaptações mais comentadas da cultura pop: <strong>Percy Jackson e o Ladrão de Raios</strong>. Lançado em 2010, o filme divide muitas opiniões até hoje, principalmente entre os leitores dos livros de Rick Riordan.</p>
-            
-
-            <div class="secao-critica">
-                <h3>O que funcionou no filme?</h3>
-                <p>Se olharmos para o longa de forma isolada, como um filme de aventura de Hollywood, ele entrega um ritmo divertido. Os efeitos visuais para a época eram bem legais (a cena da Hidra no Partenon de Nashville é fantástica) e a trilha sonora ajuda a criar aquele clima de jornada heroica. Para quem nunca leu os livros, o filme funciona muito bem como uma sessão da tarde descompromissada.</p>
-            </div>
-
-            <div class="secao-critica">
-                <h3>Os problemas como adaptação</h3>
-                <p>Agora, se você leu os livros antes de assistir, o cenário muda bastante. A mudança na idade dos personagens (que deveriam ter 12 anos e parecem ter 16 no filme) altera bastante a dinâmica da história. Além disso, cortar elementos cruciais — como o plot do Ares e a importância das pérolas de Perséfone que viraram o foco principal — deixou os fãs bastante frustrados.</p>
-            </div>
-
-            <div class="comentarios">
-                <h3>O que as pessoas estão dizendo (Opiniões da Internet):</h3>
-                
-                <div class="comentario-item">
-                    <p><strong>@Lucas_Leitor:</strong> "Como filme de fantasia dos anos 2010, eu dou um 8/10. Mas como adaptação do livro do Rick Riordan, é um 2/10 sem pensar duas vezes! Mudaram tudo."</p>
-                </div>
-
-                <div class="comentario-item">
-                    <p><strong>@Mari_Cinefila:</strong> "Eu assisti sem ter lido os livros e confesso que adorei! A Logan Lerman entrega um Percy bem carismático e o ritmo do filme não deixa você ficar entediado."</p>
-                </div>
-
-                <div class="comentario-item">
-                    <p><strong>@Gabriel_FilhoDePoseidon:</strong> "Até hoje não perdoo o fato de terem tirado o Clarisse e o chalé de Ares do primeiro filme. Mas a trilha sonora e as cenas de ação ainda são divertidas de assistir."</p>
-                </div>
-
-                <div class="comentario-item">
-                    <p><strong>@Ana_Livros99:</strong> "O filme tem seus méritos visuais, mas a sensação que dá é de que os roteiristas leram apenas o resumo da contracapa do livro e decidiram inventar o resto."</p>
-                </div>
-            </div>
-        </main>
-
-        <footer>
-            <p>&copy; 2026 - Blog do André. Todos os direitos reservados.</p>
-        </footer>
-
-    </body>
-</html>
